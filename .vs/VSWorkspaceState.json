@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CityUpDesktop",
+    "\\CityUpDesktop\\CityUpDesktop",
+    "\\CityUpMobile\\CityUpMobile",
+    "\\CityUpMobile\\CityUpMobile\\CityUpMobile",
+    "\\CityUpMobile\\CityUpMobile\\CityUpMobile.Android",
+    "\\CityUpMobile\\CityUpMobile\\CityUpMobile.Android\\Assets",
+    "\\CityUpMobile\\CityUpMobile\\CityUpMobile.Android\\Properties",
+    "\\CityUpMobile\\CityUpMobile\\CityUpMobile.Android\\Resources"
+  ],
+  "SelectedNode": "\\CityUpDesktop\\CityUpDesktop.sln",
+  "PreviewInSolutionExplorer": false
+}
